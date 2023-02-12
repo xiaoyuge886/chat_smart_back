@@ -5,3 +5,4 @@ apps/smart_token/migrations
 db.*
 **/migrations
 *.pyc
+.idea
