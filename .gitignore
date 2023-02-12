@@ -1,0 +1,7 @@
+log
+*migration/
+apps/chats/migrations
+apps/smart_token/migrations
+db.*
+**/migrations
+*.pyc
